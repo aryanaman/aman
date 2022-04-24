@@ -1,6 +1,7 @@
 import React from "react";
 import "./Experience.css";
 import { BsPatchCheckFill } from "react-icons/bs";
+// import { FaReact } from "react-icons/fa";
 
 function Experience() {
   return (
@@ -12,6 +13,20 @@ function Experience() {
         <div className="experience__frontend">
           <h3>Frontend Development</h3>
           <div className="experience__content">
+            {/* <article
+              style={{
+                width: "4.5rem",
+                background: "white",
+                padding: "1rem",
+                color: "black",
+                fontSize: "2rem",
+                borderRadius: "40px",
+              }}
+            >
+              <FaReact />
+              React
+            </article> */}
+
             <article className="experience__details">
               <BsPatchCheckFill className="experience__details-icon" />
               <div>

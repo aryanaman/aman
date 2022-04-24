@@ -31,8 +31,8 @@ function Nav() {
         <BiBook />
       </a>
       <a
-        href="#services"
-        onClick={() => setActiveNav("#services")}
+        href="#portfolio"
+        onClick={() => setActiveNav("#portfolio")}
         className={activeNav === "#services" && "active"}
       >
         <RiServiceLine />
