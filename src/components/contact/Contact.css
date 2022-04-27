@@ -52,9 +52,9 @@ textarea {
   resize: none;
   color: var(--color-white);
 }
-form button {
+/* form button {
   margin-left: 24rem;
-}
+} */
 
 @media screen and (max-width: 1024px) {
   .container.contact__container {
