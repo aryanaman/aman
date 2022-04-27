@@ -1,40 +1,28 @@
 import React from "react";
 import "./Portfolio.css";
 import image1 from "../../assets/image1.jpg";
+import image2 from "../../assets/project_img1.jpg";
+import image3 from "../../assets/project_img2.jpg";
 
 const data = [
   {
     id: 1,
-    image: image1,
-    title: "Project 1",
-    github: "https://gihub.com",
-    demo: "https://github.com",
+    image: image2,
+    title: "My Portfolio",
+    github: "https://github.com/aryanaman/portfolio",
+    demo: "https://aryanaman.github.io/portfolio",
   },
   {
     id: 2,
-    image: image1,
-    title: "Project 1",
-    github: "https://gihub.com",
-    demo: "https://github.com",
+    image: image3,
+    title: "Weather App",
+    github: "https://github.com/aryanaman/weather_app",
+    demo: "https://aryanaman.github.io/weather_app/",
   },
   {
     id: 3,
     image: image1,
-    title: "Project 1",
-    github: "https://gihub.com",
-    demo: "https://github.com",
-  },
-  {
-    id: 4,
-    image: image1,
-    title: "Project 1",
-    github: "https://gihub.com",
-    demo: "https://github.com",
-  },
-  {
-    id: 5,
-    image: image1,
-    title: "Project 1",
+    title: "Project 3",
     github: "https://gihub.com",
     demo: "https://github.com",
   },
