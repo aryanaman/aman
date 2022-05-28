@@ -23,22 +23,6 @@ const data = [
     review:
       " Lorem ipsum dolor sit amet consectetur adipisicing elit Numquam fugiat minima similique dolorum, quaerat porro consequatur sequi quibusdam voluptatibus, fugit quam! Cumque, recusandae saepe? Illum voluptates excepturi nihil architecto mollitia ",
   },
-  {
-    id: 3,
-    avatar:
-      "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cmFuZG9tJTIwcGVvcGxlfGVufDB8fDB8fA%3D%3D&w=1000&q=80",
-    name: "Shatta Wale",
-    review:
-      " Lorem ipsum dolor sit amet consectetur adipisicing elit Numquam fugiat minima similique dolorum, quaerat porro consequatur sequi quibusdam voluptatibus, fugit quam! Cumque, recusandae saepe? Illum voluptates excepturi nihil architecto mollitia ",
-  },
-  {
-    id: 4,
-    avatar:
-      "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cmFuZG9tJTIwcGVvcGxlfGVufDB8fDB8fA%3D%3D&w=1000&q=80",
-    name: "Shatta Wale",
-    review:
-      " Lorem ipsum dolor sit amet consectetur adipisicing elit Numquam fugiat minima similique dolorum, quaerat porro consequatur sequi quibusdam voluptatibus, fugit quam! Cumque, recusandae saepe? Illum voluptates excepturi nihil architecto mollitia ",
-  },
 ];
 
 function Testimonial() {
