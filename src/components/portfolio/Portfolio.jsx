@@ -15,7 +15,7 @@ const data = [
   {
     id: 1,
     image: image2,
-    title: "Portfolio Website",
+    title: "My Website",
     github: "https://github.com/aryanaman/aman",
     demo: "https://aryanaman.github.io/aman/",
   },
