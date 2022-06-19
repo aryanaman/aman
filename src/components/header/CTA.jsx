@@ -1,13 +1,15 @@
 import React from "react";
 import CV from "../../assets/Resume.pdf";
+import "./Header.css";
+
 function CTA() {
   return (
     <div className="cta">
-      <a className="btn" href={CV} download>
-        Download CV
+      <a href={CV} download>
+        <button className="btn btnDownload">Download CV</button>
       </a>
-      <a href="#contact" className="btn btn-primary">
-        Let's Talk
+      <a href="#contact">
+        <button className="btnHire">Hire Me</button>
       </a>
     </div>
   );

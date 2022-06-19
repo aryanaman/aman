@@ -50,7 +50,7 @@ function Contact() {
             <h4>WhatsApp</h4>
             <h5>+91 8969656033</h5>
             <a
-              href="https://api.whatsapp.com/send?phone=+918969656033"
+              href="https://api.whatsapp.com/send?phone=918969656033"
               target="_blank"
             >
               Send a message

@@ -100,6 +100,9 @@
 
 /* =========================== media query(small devices) =========================*/
 @media screen and (max-width: 600px) {
+  #about {
+    padding-top: 5rem;
+  }
   .about__me {
     width: 65%;
     margin: 2rem auto 3rem;

@@ -4,6 +4,7 @@ import ME from "../../assets/me-about.png";
 import { FaAward } from "react-icons/fa";
 import { FiUsers } from "react-icons/fi";
 import { VscFolderLibrary } from "react-icons/vsc";
+
 function About() {
   return (
     <section id="about">

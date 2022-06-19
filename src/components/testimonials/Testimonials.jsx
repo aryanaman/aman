@@ -10,18 +10,18 @@ const data = [
   {
     id: 1,
     avatar:
-      "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cmFuZG9tJTIwcGVvcGxlfGVufDB8fDB8fA%3D%3D&w=1000&q=80",
+      "https://media-exp2.licdn.com/dms/image/C4E03AQHgm76bj5yjHw/profile-displayphoto-shrink_800_800/0/1643474649550?e=1660780800&v=beta&t=4Km09HBeUAy-p3nuNlLi1t-jtHetCQsRK66yh8qAbzI",
     name: "Shubham Kumar",
     review:
-      " Lorem ipsum dolor sit amet consectetur adipisicing elit Numquam fugiat minima similique dolorum, quaerat porro consequatur sequi quibusdam voluptatibus, fugit quam! Cumque, recusandae saepe? Illum voluptates excepturi nihil architecto mollitia ",
+      "We both are working together in wobb. He is responsible and a team player, he generally used to take initiative of the work and used to deliver before the deadline.",
   },
   {
     id: 2,
     avatar:
-      "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cmFuZG9tJTIwcGVvcGxlfGVufDB8fDB8fA%3D%3D&w=1000&q=80",
-    name: "Shatta Wale",
+      "https://media-exp2.licdn.com/dms/image/C4D03AQFCWoAjA49tHQ/profile-displayphoto-shrink_400_400/0/1653238835342?e=1660780800&v=beta&t=Yoh6qU3FwJqnzCvAtr74v1NWUltMXv2jXllXMMgDHig",
+    name: "Anshu Pal",
     review:
-      " Lorem ipsum dolor sit amet consectetur adipisicing elit Numquam fugiat minima similique dolorum, quaerat porro consequatur sequi quibusdam voluptatibus, fugit quam! Cumque, recusandae saepe? Illum voluptates excepturi nihil architecto mollitia ",
+      "Aman is very professional and kind in nature. We works together at Wobb as frontend developer. He was dedicated to his work and timeline. His approach toward any problem was very fascinating to me.",
   },
 ];
 

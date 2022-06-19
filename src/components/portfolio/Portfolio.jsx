@@ -1,10 +1,17 @@
 import React from "react";
 import "./Portfolio.css";
 import image1 from "../../assets/image1.jpg";
-import image2 from "../../assets/project_img1.jpg";
+import image2 from "../../assets/portfolioImg.jpg";
 import image3 from "../../assets/project_img2.jpg";
-
+import image4 from "../../assets/project_img4.jpg";
 const data = [
+  {
+    id: 3,
+    image: image4,
+    title: "Tenzies Game",
+    github: "https://github.com/aryanaman/tenziesgame",
+    demo: "https://aryanaman.github.io/tenziesgame",
+  },
   {
     id: 1,
     image: image2,
@@ -19,13 +26,6 @@ const data = [
     github: "https://github.com/aryanaman/weather_app",
     demo: "https://aryanaman.github.io/weather_app/",
   },
-  {
-    id: 3,
-    image: image1,
-    title: "Project 3",
-    github: "https://gihub.com",
-    demo: "https://github.com",
-  },
 ];
 
 function Portfolio() {
@@ -38,7 +38,11 @@ function Portfolio() {
           return (
             <article className="portfolio__item" key={item.id}>
               <div className="portfolio__item-image">
-                <img src={item.image} alt="project1" />
+                <img
+                  src={item.image}
+                  alt="project_img"
+                  style={{ objectFit: "cover" }}
+                />
               </div>
               <h3>{item.title}</h3>
               {console.log(item.title)}

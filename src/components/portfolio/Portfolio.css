@@ -38,6 +38,9 @@
     grid-template-columns: 1fr 1fr;
     gap: 1.2rem;
   }
+  .portfolio__container {
+    padding: 1rem;
+  }
 }
 
 /*===========================MEDIA QUERIES (SMALL DEVICES) =========================*/
@@ -46,5 +49,8 @@
   .container.portfolio__container {
     grid-template-columns: 1fr;
     gap: 1 rem;
+  }
+  .portfolio__container {
+    padding: 1rem;
   }
 }
