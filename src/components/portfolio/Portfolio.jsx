@@ -16,8 +16,8 @@ const data = [
     id: 1,
     image: image2,
     title: "My Portfolio",
-    github: "https://github.com/aryanaman/portfolio",
-    demo: "https://aryanaman.github.io/portfolio",
+    github: "https://github.com/aryanaman/aman",
+    demo: "https://aryanaman.github.io/aman/",
   },
   {
     id: 2,
